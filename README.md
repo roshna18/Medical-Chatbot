@@ -21,3 +21,13 @@ An AI-powered medical chatbot built with Streamlit, LangChain, and Google Gemini
 - Streamlit account (optional, for hosting)
 
 ---
+
+## 📸 Screenshots
+
+Here is how the chatbot looks when running:
+
+![Chatbot UI](images/screenshot1.png)
+
+Example response from the bot:
+
+![Chatbot response](images/screenshot2.png)
