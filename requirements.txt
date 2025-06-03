@@ -1,11 +1,9 @@
+streamlit
 sentence-transformers==2.2.2
 langchain
-flask
+langchain-community
+faiss-cpu
 pypdf
 python-dotenv
 pinecone[grpc]
-langchain-pinecone
-langchain-community
-langchain_openai
-langchain_experimental
--e .    
+flask
