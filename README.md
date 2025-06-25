@@ -31,3 +31,9 @@ Here is how the chatbot looks when running:
 Example response from the bot:
 
 ![Chatbot response](images/screenshot2.png)
+
+## 📽 Demo Video
+
+Click the image below to watch a demo of the Medical Chatbot in action:
+
+[![Watch the demo](https://img.youtube.com/vi/2InmcuW2UTk/0.jpg)](https://www.youtube.com/watch?v=2InmcuW2UTk)
